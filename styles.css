@@ -13,6 +13,7 @@ div.post {
     margin-top: 20px;
 }
 .post-header{
+    padding-left: 3px;
     display:flex;
     justify-content: space-between;
     align-items: center;
@@ -38,4 +39,7 @@ div.post img {
 .icons .paragraphs{
     width: 100px;
     height: 100px;
+}
+.lowerhalf{
+    padding: 10px;
 }
