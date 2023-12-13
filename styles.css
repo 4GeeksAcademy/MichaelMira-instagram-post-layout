@@ -1,0 +1,33 @@
+body {
+    background: black;
+    margin: 0px;
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
+div.post {
+    background: white;
+    width:500px ;
+    margin:auto;
+    margin-top: 20px;
+}
+.post-header{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.post-header > div {
+    display: flex;
+}
+.middle-child > p{
+    margin: 0;
+}
+.middle-child {
+    margin-top: 10px;
+}
+
+div.post img {
+    width: 100%;
+    height: 300px;
+}
